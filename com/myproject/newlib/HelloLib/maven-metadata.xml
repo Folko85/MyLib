@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.myproject.newlib</groupId>
+  <artifactId>HelloLib</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200513191906</lastUpdated>
+  </versioning>
+</metadata>
